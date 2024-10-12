@@ -21,3 +21,5 @@ https://www.instagram.com/p/C7Z3IcWvuPk/?utm_source=ig_web_button_share_sheet&ig
 # Prática com os alunos
 ![WhatsApp Image 2024-10-12 at 12 05 01](https://github.com/user-attachments/assets/145fed75-ecd1-491b-b910-bb4d54b1072a)
 ![WhatsApp Image 2024-10-12 at 12 05 01 (1)](https://github.com/user-attachments/assets/85919728-d30e-4ac1-808d-a62468577553)
+
+[Declaracao-Aluno%28a%29-voluntario%28a%29-Projeto-Tangram_Jean-Joe_MAI2024_assinado (1).pdf](https://github.com/user-attachments/files/17350727/Declaracao-Aluno.28a.29-voluntario.28a.29-Projeto-Tangram_Jean-Joe_MAI2024_assinado.1.pdf)
