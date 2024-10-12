@@ -10,13 +10,14 @@ O Arduino também desempenha uma função essencial na cronometragem do tempo qu
 
 Este projeto não tem apenas o propósito de ensinar conceitos de geometria e resolução de questões, mas também estimular a criatividade, a colaboração e o pensamento crítico entre os alunos.
 
+# II Mostra de Projetos da Formação Educadores do Século 21
 https://www.instagram.com/p/C7Z3IcWvuPk/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==
 
-#Apresentação Final do Projeto
+# Apresentação Final do Projeto
 ![WhatsApp Image 2024-10-12 at 12 11 14](https://github.com/user-attachments/assets/5831ef96-642b-461c-aad4-88491103c793)
 ![WhatsApp Image 2024-10-12 at 12 05 00](https://github.com/user-attachments/assets/23cfe7d0-89b7-4e79-b391-b2c9166a5eb7)
 
 
-#Prática com os alunos
+# Prática com os alunos
 ![WhatsApp Image 2024-10-12 at 12 05 01](https://github.com/user-attachments/assets/145fed75-ecd1-491b-b910-bb4d54b1072a)
 ![WhatsApp Image 2024-10-12 at 12 05 01 (1)](https://github.com/user-attachments/assets/85919728-d30e-4ac1-808d-a62468577553)
