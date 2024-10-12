@@ -15,7 +15,6 @@ Este projeto não tem apenas o propósito de ensinar conceitos de geometria e re
 ![WhatsApp Image 2024-10-12 at 12 05 00](https://github.com/user-attachments/assets/23cfe7d0-89b7-4e79-b391-b2c9166a5eb7)
 
 
-#dia da prática com os alunos
-
+#Prática com os alunos
 ![WhatsApp Image 2024-10-12 at 12 05 01](https://github.com/user-attachments/assets/145fed75-ecd1-491b-b910-bb4d54b1072a)
 ![WhatsApp Image 2024-10-12 at 12 05 01 (1)](https://github.com/user-attachments/assets/85919728-d30e-4ac1-808d-a62468577553)
