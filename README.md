@@ -1,4 +1,4 @@
-# Tangram com Arduino e Peças em 3D
+# TANGRAN INTELIGENTE - PROJET0 ARANOUÁ (IFAM)
 
 Este projeto, desenvolvido pela equipe HIWI do Projeto ARANOUÁ da Samsung em parceria com o IFAM (Instituto Federal do Amazonas) e a FAEPI (Fundação de Amparo à Educação e Pesquisa do Amazonas), visa proporcionar uma experiência educativa e divertida para crianças na faixa etária de 9 á 11 anos, especificamente alunos do quinto ano.
 
